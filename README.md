@@ -1,7 +1,9 @@
 # ebaywatcher
 
+- First have Nodejs installed
 
-- First run the command npm install
+
+- Run the command npm install
 
 
 - Then run the command npm start
