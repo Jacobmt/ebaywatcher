@@ -1,4 +1,4 @@
-# ebaywatcher
+# Ebay Watcher
 
 - First have Nodejs installed
 
