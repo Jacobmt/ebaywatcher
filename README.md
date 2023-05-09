@@ -1,18 +1,21 @@
-# Ebay Watcher
+~~# Ebay Watcher
 
-- First have Nodejs installed
-
-
-- Run the command: npm install
+~~- First have Nodejs installed~~
 
 
-####### UPDATE: RUN THIS COMMAND AFTER NPM INSTALL:
-
-         npm install playwright@1.9.2 --save
+~~- Run the command: npm install
 
 
+~~####### UPDATE: RUN THIS COMMAND AFTER NPM INSTALL:
 
-- Then run this command to start the script: npm start
+ ~~npm install playwright@1.9.2 --save~~
 
 
-*Note make sure you use good proxies in the proxies.txt file
+
+~~- Then run this command to start the script: npm start
+
+
+~~*Note make sure you use good proxies in the proxies.txt file~~
+
+
+** Depreciated. Ebay updated their system and this script is no longer applicable
